@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ---
+
+
 <center>
   Html React Svelte Alpinejs Htmx 
     Nextjs sveltekit Astro
@@ -12,7 +14,11 @@
   Digitalocean Namecheap Railway 
   vscode nvim
 </center>
+
+
 ---
+
+
 
 - 🔭 I’m currently working on ... - next-wms / zen / milling
 - 🌱 I’m currently learning ... - deno 
